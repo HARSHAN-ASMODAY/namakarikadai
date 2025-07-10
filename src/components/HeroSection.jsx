@@ -72,7 +72,7 @@ const HeroSection = () => {
             className="text-4xl md:text-6xl lg:text-7xl font-display font-bold mb-6"
           >
             <span className="text-gradient bg-gradient-to-r from-white to-saffron-200 bg-clip-text text-transparent">
-              NAMA KARI KADAI
+              Delicious Foods
             </span>
           </motion.h1>
           

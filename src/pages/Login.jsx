@@ -64,7 +64,7 @@ const Login = () => {
             </div>
           </div>
           <h1 className="text-3xl font-display font-bold text-white mb-2">
-            NAMA KARI KADAI
+            Delicious Foods
           </h1>
           <p className="text-white/80">Staff & Admin Portal</p>
         </div>

@@ -10,12 +10,13 @@ import {
 
 // Firebase configuration (replace with your actual config)
 const firebaseConfig = {
-  apiKey: "your-api-key",
-  authDomain: "nama-kari-kadai.firebaseapp.com",
-  projectId: "nama-kari-kadai",
-  storageBucket: "nama-kari-kadai.appspot.com",
-  messagingSenderId: "123456789",
-  appId: "your-app-id"
+  apiKey: "AIzaSyCGFytPhTVVCnNSeE-UMYPfBwDNhCPYtl8",
+  authDomain: "tamil-kadai.firebaseapp.com",
+  projectId: "tamil-kadai",
+  storageBucket: "tamil-kadai.firebasestorage.app",
+  messagingSenderId: "774649574412",
+  appId: "1:774649574412:web:6969371c48efb99e656a29",
+  measurementId: "G-Z3QKGTTGVD"
 }
 
 // Initialize Firebase

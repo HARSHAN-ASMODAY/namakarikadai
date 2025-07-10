@@ -31,7 +31,7 @@ function App() {
       <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-primary-600 to-saffron-500">
         <div className="text-center">
           <div className="w-16 h-16 border-4 border-white border-t-transparent rounded-full animate-spin mx-auto mb-4"></div>
-          <h2 className="text-white text-xl font-display">NAMA KARI KADAI</h2>
+          <h2 className="text-white text-xl font-display">Delicious Foods</h2>
           <p className="text-white/80">Loading your culinary journey...</p>
         </div>
       </div>

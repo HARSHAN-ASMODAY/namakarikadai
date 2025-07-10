@@ -125,7 +125,7 @@ const Home = () => {
             className="text-center mb-12"
           >
             <h2 className="text-3xl md:text-4xl font-display font-bold text-white mb-4">
-              Why Choose NAMA KARI KADAI?
+              Why Choose Delicious Foods?
             </h2>
             <p className="text-white/90 text-lg max-w-2xl mx-auto">
               Experience authentic Indian cuisine with the perfect blend of tradition and innovation

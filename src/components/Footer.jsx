@@ -31,7 +31,7 @@ const Footer = () => {
                 <span className="text-white font-bold text-lg">N</span>
               </div>
               <span className="text-xl font-display font-bold text-gradient">
-                NAMA KARI KADAI
+                Delicious Foods
               </span>
             </div>
             <p className="text-earthy-300 mb-6">
