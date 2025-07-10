@@ -1,4 +1,4 @@
-# NAMA KARI KADAI - Restaurant Website
+# Delicious Foods - Restaurant Website
 
 A fully responsive, visually captivating, and high-converting restaurant website built with React and modern web technologies. This project showcases authentic Indian cuisine with a focus on user experience, conversion optimization, and beautiful design.
 
@@ -215,4 +215,4 @@ For support or questions:
 
 ---
 
-**NAMA KARI KADAI** - Where every dish tells a story of passion and tradition. 🍛✨ 
+**Delicious Foods** - Where every dish tells a story of passion and tradition. 🍛✨ 
